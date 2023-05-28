@@ -1,0 +1,34 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+div {
+    color: rgb(226, 166, 14);
+    font-family: "Trebuchet MS"
+}
+
+.list {
+    text-align: center;
+    color: white;
+}
+
+.lists {
+    display: inline-block;
+    text-align: left;
+    color: white;
+}
+
+body {
+    background: grey;
+    color: white;
+    font-family: "Trebuchet MS"
+}
+
+h2, h3, h1 {
+    color:rgb(226, 166, 14)
+}
+
+html {
+    text-align: center;
+}
